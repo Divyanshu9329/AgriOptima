@@ -1,5 +1,5 @@
 
-# 📚 Student Task Manager
+# 📚 AgriOptima
 
 ## 1. Project Title & Goal
 A full-stack Single Page Application (SPA) built with React, Express, and SQLite that allows students to persistently add and view homework tasks with real-time UI updates and no page reloads, running entirely on a local machine.
